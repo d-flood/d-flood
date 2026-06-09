@@ -8,5 +8,3 @@ I mostly work on web applications, platforms, and computer tools for ancient tex
 - virtual research environments
 
 Find me on [Twitter - @FloodDavid](https://twitter.com/FloodDavid), <a rel="me" href="https://fosstodon.org/@davidflood">Mastedon - https://fosstodon.org/@davidflood</a>, and my [personal website - davidaflood.com](https://davidaflood.com)
-
-[![d-flood's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-flood)](https://github.com/anuraghazra/github-readme-stats)
